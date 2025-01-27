@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo (aka @n3xusd3v) 👋
+# Hi, I'm Eduardo Araujo (@n3xusd3v) 👋
 
 Welcome to my GitHub profile! I'm passionate about developing innovative solutions in **Artificial Intelligence (AI)**, **blockchain technologies**, and **digital product development**. Here's a bit about me:
 
